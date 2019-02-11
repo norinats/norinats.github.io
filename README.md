@@ -1,7 +1,5 @@
 # About Me
 
-![Image of Me] (https://media.licdn.com/dms/image/C4D03AQEIa62li7ACtQ/profile-displayphoto-shrink_200_200/0?e=1555545600&v=beta&t=-zRSH2ix_V6vv765JLcaf0WktGhtNaBAeigJuWKFRhI)
-
 Hello all! A little about me is that I currently a student at Boise State University
 working toward a degree in Computer Science with an Applied Math minor. 
 
@@ -23,4 +21,6 @@ Boise State, which include:
   * MATH 365
   
 ### Projects I've Worked On
+Class | Project
+------------ | ----------
 CS 121 | [GitHub](https://github.com/norinats/MineWalker)
