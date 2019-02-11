@@ -23,4 +23,4 @@ Boise State, which include:
 ### Projects I've Worked On
 Class | Project
 ------------ | ----------
-CS 121 | [GitHub](https://github.com/norinats/MineWalker)
+CS 121 | MineWalker: [GitHub](https://github.com/norinats/MineWalker)
