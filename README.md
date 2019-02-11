@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# About Me
 
-You can use the [editor on GitHub](https://github.com/norinats/norinats.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![Image of Me] (https://media.licdn.com/dms/image/C4D03AQEIa62li7ACtQ/profile-displayphoto-shrink_200_200/0?e=1555545600&v=beta&t=-zRSH2ix_V6vv765JLcaf0WktGhtNaBAeigJuWKFRhI)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello all! A little about me is that I currently a student at Boise State University
+working toward a degree in Computer Science with an Applied Math minor. 
 
-### Markdown
+I don't tend to have a lot of spare time, but when I do, I enjoy bullet journaling and 
+playing the ukulele.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Experience
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/norinats/norinats.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Classes
+Currently my experience with programming lies mainly in the classes I am taking at
+Boise State, which include:
+* Java Programming
+  * CS 121 - Computer Science I
+  * CS 221 - Computer Science II
+  * CS 321 - Data Structures
+* C Programming
+  * CS 253 - Intro to C Programming
+* MatLab
+  * MATH 365
+  
+### Projects I've Worked On
+CS 121 | [GitHub](https://github.com/norinats/MineWalker)
